@@ -13,3 +13,4 @@ pub mod uefi;
 pub use uefi as os;
 
 pub mod api;
+mod os;
